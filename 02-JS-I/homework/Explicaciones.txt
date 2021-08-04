@@ -1,0 +1,13 @@
+Variables: Las variables se utilizan para almacenar valores que pueden ser de varios tipos, como por ejemplo, textos, números, si y no, y ocupan un pequeño espacio en la memoria de la computadora. 
+
+Strings: Los strings son simplemente cadenas de texto, o sea varias letras o caracteres juntos. 
+
+Funciones, argumentos y return: Una funcion son una serie de acciones que podemos predefinir para luego llamarlas y que ejecuten esas acciones que definimos, eso nos ayuda a agilizar el trabajo. 
+
+    Los argumentos son valores que le podemos pasar a estas "funciones" para que los utilizen dentro de las acciones que predefinimos, por ejemplo, podemos pasarle como argumentos dos valores numericos para que los sumen.
+
+    El return nos sirve por si necesitamos que la accion que realiza la funcion regrese algun valor, o simplemente para interrumpir la ejecución de la funcion, porque cuando la funcion encuentra un return dentro de ella se interrumpe de inmediato. 
+
+Declaraciones if: Un if sirve para evaluar si algo es verdad o no, y en base a eso tomar una decision, por ejemplo si le decimos que si el 8 es mas grande que el 10 ejecute una accion entonces no lo hara ya que esto es mentira, pero si le decimos que si 8 es mas pequeño que 10 ejecute una accion entonces si lo hara porque esto si es verdad. 
+
+Valores booleanos: Un valor booleano simplemente nos sirve para decir verdadero o falso, siendo sus valores true en caso de que sea verdad y false en caso de que sea falso
