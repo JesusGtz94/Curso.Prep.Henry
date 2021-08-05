@@ -1,0 +1,7 @@
+for: For sirve para que una serie de instrucciones se repitan una cantidad controlada de veces segun nosotros se lo indiquemos, utilizando una variable que va creciendo o disminuyendo su valor y dejara de repetirse hasta que esa variable este fuera de las condiciones que nosotros le digamos. 
+
+&& : Sirve para juntar dos condiciones y hace que las dos tengan que ser verdaderas para que el resultado de la condicion sea verdadero tambien, pero si al menos una de ellas es falsa entonces el resultado sera falso
+
+||: Sirve para juntar dos condiciones, si cualquiera de esas condiciones resulta verdadera entonces nos arrojara como resultado verdadero. 
+
+!: Sirve para las condiciones y lo que hace es invertir su resultado, es decir, si una condicion es falsa entonces la volvera verdadera y si es verdadera la volvera falsa.
