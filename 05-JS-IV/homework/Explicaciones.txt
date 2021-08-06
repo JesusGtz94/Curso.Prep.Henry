@@ -1,0 +1,9 @@
+Objetos: Los objetos son variables que nos sirven para guardar mas variables dentro de ellos, y estás pueden ser de todo tipo, incluso pueden almacenar arrays, funciones u otros objetos.
+
+Propiedades: Es el nombre que se le da a las variables almacenadas dentro de un objeto. 
+
+Metodos: Es el nombre que se le da a las funciones almacenadas dentro de una propiedad de un objeto.
+
+Bucle for..in: Se utiliza para recorrer las propiedades de un objeto, se utiliza como un for pero entre los parentesis primero se declara una vairable, esta variable ira tomando una por una las keys de las propiedades del objeto luego se coloca un "in" y posteriormente el nombre del objeto que queremos recorrer, este bucle se ejecutara una vez por cada propiedad en el objeto.
+
+Notación de puntos vs notación de corchetes: hay dos formas de acceder a las propiedades de un objeto, una es escribiendo un punto y luego el nombre de la propiedad y la otra es escribiendo el nombre del objeto y luego entre corchetes el nombre de la propiedad, la ventaja de la notacion de puntos es que es mas practica y rapida, y la ventaja de la notacion de corchetes es que es la unica que sirve si queremos acceder a una propiedad cuyo nombre nos lo den por una variable. 
