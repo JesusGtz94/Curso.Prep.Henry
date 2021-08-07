@@ -1,0 +1,1 @@
+Call Backs: Un call back es simplemente la posibilidad de utilizar funciones como parametros dentro de otras funciones, esta funcionalidad abre muchas posibilidad y es la base de muchas herramientas utiles en javascript que si bien no suelen ser indispenables para completar una tarea si facilitan mucho el proceso de programacion. 
